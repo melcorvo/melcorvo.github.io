@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+# My CV
+
+I am a graduate student in Applied Business Analytics at Boston University with experience in data analysis, business operations, and process improvement.
+
+[Download My CV](M%20CORVO(20261118-190843).pdf)

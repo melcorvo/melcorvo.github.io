@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+My name is Melany Corvo, and I am pursuing a Master's degree in Applied Business Analytics at Boston University Metropolitan College.
+
+I have experience in healthcare administration and an interest in data analytics, business intelligence, and artificial intelligence.
+
+My technical skills include Python, R, SQL, Excel, and Power BI.

@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+# My Projects
+
+This page showcases my academic projects and work in data analytics.

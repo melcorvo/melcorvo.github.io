@@ -1,0 +1,9 @@
+---
+title: "Melany Corvo"
+---
+
+# Welcome to My Portfolio
+
+I am a Master's student in Applied Business Analytics at Boston University Metropolitan College. 
+
+This website showcases my academic projects and work in data analytics.

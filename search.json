@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV\nI am a graduate student in Applied Business Analytics at Boston University with experience in data analysis, business operations, and process improvement.\nDownload My CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Melany Corvo",
+    "section": "",
+    "text": "Welcome to My Portfolio\nI am a Master’s student in Applied Business Analytics at Boston University Metropolitan College.\nThis website showcases my academic projects and work in data analytics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nEmail: melanycorvo03@gmail.com\nLinkedIn: My LinkedIn Profile"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My Projects\nThis page showcases my academic projects and work in data analytics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nMy name is Melany Corvo, and I am pursuing a Master’s degree in Applied Business Analytics at Boston University Metropolitan College.\nI have experience in healthcare administration and an interest in data analytics, business intelligence, and artificial intelligence.\nMy technical skills include Python, R, SQL, Excel, and Power BI."
+  }
+]
